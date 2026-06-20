@@ -116,22 +116,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,25:FFD700,50:FF1493,75:00BFFF,100:9932CC&height=80&section=header" width="100%" />
 </p>
 
-## 🏆 My GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=fahadlilgar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,25:FFD700,50:FF1493,75:00BFFF,100:9932CC&height=60&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,25:FFD700,50:FF1493,75:00BFFF,100:9932CC&height=120&section=footer&fontColor=fff&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" alt="footer"/>
-  <br/>
-  <blockquote>
-    <p><strong>“Great code, like great art, inspires and endures.”</strong></p>
-  </blockquote>
-</p>
